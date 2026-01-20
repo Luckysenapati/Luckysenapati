@@ -16,7 +16,7 @@
   <a href="https://github.com/Luckysenapati">
     <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
-  <a href="mailto:luckysenapatiluckyteken@gmail.com">
+  <a href="luckysenapatiluckyteken@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
 </p>
