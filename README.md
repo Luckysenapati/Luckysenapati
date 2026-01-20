@@ -16,9 +16,9 @@
   <a href="https://github.com/Luckysenapati">
     <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
-  <a href="luckysenapatiluckyteken@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=luckysenapatiluckyteken@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
